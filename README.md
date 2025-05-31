@@ -15,13 +15,13 @@ git clone https://github.com/Be1yashik0/lr3.git
 ### 4. Запуск сервера пользователя
 
 ```shell
-npm start 
+yarn start 
 ```
 
 запуск сервера
 
 ```shell
-node admin
+yarn admin
 ```
 
 ### 4. Запуск сервера администратора
@@ -33,7 +33,7 @@ npm install
 запуск сервера
 
 ```shell
-node admin
+yarn admin
 ```
 
 ### 5. Открытие страницы пользователя
