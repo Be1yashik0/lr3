@@ -1,0 +1,17 @@
+{
+  "name": "lr3",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "admin": "node src/admin/admin-server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "bootstrap": "^5.3.5",
+    "express": "^5.1.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
